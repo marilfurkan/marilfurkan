@@ -7,4 +7,4 @@ Frontend Developer & UI Designer
 - Working as a Frontend Test Engineer with a focus on UI quality
 - Currently improving JavaScript, Python
 
-🔗 LinkedIn: [https://linkedin.com/in/](https://www.linkedin.com/in/furkanmaril/)
+🔗 LinkedIn: [Furkan Maril](https://www.linkedin.com/in/furkanmaril/)
